@@ -68,4 +68,41 @@ body{
     margin: 100px 200px 100px 200px;
     padding: 25px 50px 50px 50px;
     background-color:white;
+    border-color:#dddddd;
+    border-width: 6px
 }
+footer{
+    background-color:#666666;
+    height:50px;
+    padding:10px;
+    border-top-color:blue;
+}
+#FooterText{
+    text-align: center;
+    color:white
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=email], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=submit], select{
+      width: 100px;
+      background-color:#4aaaa5;
+      color:white;
+      
+
+  }
