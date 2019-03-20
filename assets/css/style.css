@@ -12,7 +12,7 @@ h1{ font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     line-height:75px;
     width: 325px;
-    margin: 0px 0px 0px 200px
+    margin: 0px 0px 0px 15%
 }
 h2{
     color:#4aaaa5;
@@ -34,8 +34,8 @@ height:75px;
 vertical-align: middle;
 text-align: center;
 line-height:75px;
-width: 325px;
-Margin: 0px 200px 0px 0px;
+width: 200px;
+Margin: 0px 15% 0px 0px;
 color: #cccccc;
 text-decoration-line: none;
 }
@@ -59,7 +59,7 @@ body{
     background-image: url("../images/hexellence.png")
 }
 #Main{
-    margin: 100px 200px 100px 200px;
+    margin: 100px 15% 100px 15%;
     padding: 25px 50px 50px 50px;
     background-color:white;
     border-color:#dddddd;
