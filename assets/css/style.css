@@ -103,6 +103,17 @@ input[type=text], select {
       width: 100px;
       background-color:#4aaaa5;
       color:white;
-      
-
   }
+
+#PFImage{
+    height:100px;
+    width:100px;
+    margin:50px 50px 0px 50px;
+}
+.Imgtxt{
+    position: relative;
+    text-align: center;
+}
+#message{
+
+}
