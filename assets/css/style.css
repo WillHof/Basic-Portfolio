@@ -114,6 +114,14 @@ input[type=text], select {
     position: relative;
     text-align: center;
 }
-#message{
-
+textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    height:150px;
 }
